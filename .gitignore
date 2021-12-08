@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+*__pycache__
+*.csv
+*.db
+*.DS_Store
+*logs.txt
+*.html
