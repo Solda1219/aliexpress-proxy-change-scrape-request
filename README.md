@@ -3,7 +3,8 @@
 Scraper for the italian versions of Amazon, Ebay, and Alibaba.
 
 ## Running the Scraper
-
+  
+  
 1. Install `python3` on your system
 2. Install the requirements with `pip3`
 
